@@ -3,6 +3,9 @@
 A visual drag-and-drop pipeline builder with a React frontend and Python/FastAPI backend.
 
 ---
+<img width="1895" height="802" alt="Image 1 of vector shift" src="https://github.com/user-attachments/assets/cf88c032-cf66-4977-b723-371924844256" />
+<img width="1892" height="836" alt="Image 3 vector shift" src="https://github.com/user-attachments/assets/8bfe3929-0edb-4cd6-8acc-1d2108cc3261" />
+<img width="1913" height="872" alt="Image2 Vectorshift" src="https://github.com/user-attachments/assets/6521c2d0-1a37-49f4-a47a-0b233bd5b2cd" />
 
 ## Prerequisites
 
